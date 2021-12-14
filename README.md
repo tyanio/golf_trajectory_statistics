@@ -1,6 +1,8 @@
 # golf_trajectory_statistics
 
-A new Flutter project.
+A new Flutter project.  
+
+[![Codemagic build status](https://api.codemagic.io/apps/61b8a71f9888c0b0da0f4f41/61b8a71f9888c0b0da0f4f40/status_badge.svg)](https://codemagic.io/apps/61b8a71f9888c0b0da0f4f41/61b8a71f9888c0b0da0f4f40/latest_build)
 
 ## Getting Started
 
