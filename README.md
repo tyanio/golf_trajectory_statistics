@@ -1,6 +1,7 @@
 # golf_trajectory_statistics
 
 A new Flutter project.
+https://api.codemagic.io/hooks/61b8a71f9888c0b0da0f4f41
 
 ## Getting Started
 
